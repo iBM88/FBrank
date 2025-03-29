@@ -1,0 +1,16 @@
+Copyright (c) 2025 Synaptosearch
+
+This software is licensed under the following terms:
+
+1. **Personal and Academic Use**  
+   - You may use, modify, and distribute this software for personal or academic purposes **without charge**.  
+   - Academic use includes research, teaching, and non-commercial projects.  
+
+2. **Commercial Use**  
+   - If you use this software for **any commercial purpose** (including in a company, SaaS, or closed-source product),  
+     you must obtain a **commercial license** from the author.  
+
+3. **No Warranty**  
+   - This software is provided "as is," without warranty of any kind.  
+
+To obtain a commercial license, contact: synaptosearch@gmail.com or www.synaptosearch.com
